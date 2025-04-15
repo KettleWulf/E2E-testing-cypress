@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "The Mocktrix",
+            "Year": "1999",
+            "imdbID": "tt0133093",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Matrix Re-mocked",
+            "Year": "2003",
+            "imdbID": "tt0234215",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Mocktrix Mocka-mocktions",
+            "Year": "2003",
+            "imdbID": "tt0242653",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Matrix Mock-u-rected",
+            "Year": "2021",
+            "imdbID": "tt10838180",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Mocking 'The Matrix'",
+            "Year": "1999",
+            "imdbID": "tt0365467",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTZjYThlYjktMzI1Ny00ZTQ1LWEzYTYtMTQ2NzU5ZDc1MGIwXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Matrix Rocka-mocka-phone",
+            "Year": "2001",
+            "imdbID": "tt0295432",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNjg3NjE4N15BMl5BanBnXkFtZTgwNTc3NTAwNzE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "A Mock in the Matrix",
+            "Year": "2021",
+            "imdbID": "tt9847360",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYmU0NzFhYmEtMmUzNC00MjQ1LTg3NTctZDdlZmVlY2MzMDQzXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Sex, the Matrix and Mock-n-roll",
+            "Year": "2000",
+            "imdbID": "tt0274085",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjBlMDFiODYtZmE2Ny00Y2JjLWIxYTAtMTRhYWQ1ZmM0OGE3XkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Mocktrix Mock-moaded Re-Mockafied",
+            "Year": "2004",
+            "imdbID": "tt1830850",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODBlZmFiMTktOTkyMy00OWFkLTg0ZTAtODJkY2VlYWQ0NWM1XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Return to Source: Please stop mocking the Mocktri- I mean, the Matrix",
+            "Year": "2004",
+            "imdbID": "tt0439783",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODJjOTEyYTAtMGYwMC00ZDc5LTg5ZGItMGJmNzM4MjUzM2Q5XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "91",
+    "Response": "True"
+}

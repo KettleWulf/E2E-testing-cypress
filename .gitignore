@@ -1,0 +1,14 @@
+/**/build
+/**/dist
+/**/coverage
+/**/node_modules
+.DS_Store
+.htaccess
+*.code-workspace
+*-nogit
+.env
+
+# Ignore recommended Cypress files
+cypress/downloads
+cypress/screenshots
+cypress/videos

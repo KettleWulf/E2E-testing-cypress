@@ -1,0 +1,40 @@
+{
+    "Title": "The Mocktrix",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "31 Mar 1999",
+    "Runtime": "136 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Moch-owski, Lilly Moch-owski",
+    "Writer": "Lilly Moch-owski, Lana Moch-owski",
+    "Actors": "Keanu Reeves, Faux-rence Fishburne, Carrie-Anne Mocks",
+    "Plot": "When a beautiful stranger leads request mocker Neo to a forbidding underworld, he discovers the mocking truth--the API he knows is the elaborate deception of an evil cyber-intelligence.",
+    "Language": "English",
+    "Country": "United States, Australia",
+    "Awards": "Won 4 Oscars. 42 wins & 52 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "8.7",
+    "imdbVotes": "2,124,695",
+    "imdbID": "tt0133093",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$172,076,928",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
